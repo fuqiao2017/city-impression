@@ -14,3 +14,29 @@ html {
 .fr {
     float: right;
 }
+
+.tc {
+    text-align: center;
+}
+
+.tl {
+    text-align: left;
+}
+
+.tr {
+    text-align: right;
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+    color: #000000;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+    outline: none;
+    text-decoration: none;
+}
